@@ -1,0 +1,279 @@
+{
+	"movies": [
+		{
+			"id": 566525,
+			"title": "Shang-Chi and the Legend of the Ten Rings",
+			"posterImg": "https://image.tmdb.org/t/p/w300/xeItgLK9qcafxbd8kYgv7XnMEog.jpg",
+			"rating": 79,
+			"date": "Sep 01, 2021"
+		},
+		{
+			"id": 580489,
+			"title": "Venom: Let There Be Carnage",
+			"posterImg": "https://image.tmdb.org/t/p/w300/rjkmN1dniUHVYAtwuV3Tji7FsDO.jpg",
+			"rating": 68,
+			"date": "Sep 30, 2021"
+		},
+		{
+			"id": 524434,
+			"title": "Eternals",
+			"posterImg": "https://image.tmdb.org/t/p/w300/6AdXwFTRTAzggD2QUTt5B7JFGKL.jpg",
+			"rating": 72,
+			"date": "Nov 03, 2021"
+		},
+		{
+			"id": 796499,
+			"title": "Army of Thieves",
+			"posterImg": "https://image.tmdb.org/t/p/w300/5YCg0PFnGxDKb24Lmhxz8p4Q8j1.jpg",
+			"rating": 69,
+			"date": "Oct 27, 2021"
+		},
+		{
+			"id": 522402,
+			"title": "Finch",
+			"posterImg": "https://image.tmdb.org/t/p/w300/jKuDyqx7jrjiR9cDzB5pxzhJAdv.jpg",
+			"rating": 81,
+			"date": "Nov 04, 2021"
+		},
+		{
+			"id": 438631,
+			"title": "Dune",
+			"posterImg": "https://image.tmdb.org/t/p/w300/d5NXSklXo0qyIYkgV94XAgMIckC.jpg",
+			"rating": 80,
+			"date": "Sep 15, 2021"
+		},
+		{
+			"id": 370172,
+			"title": "No Time to Die",
+			"posterImg": "https://image.tmdb.org/t/p/w300/iUgygt3fscRoKWCV1d0C7FbM9TP.jpg",
+			"rating": 75,
+			"date": "Sep 29, 2021"
+		},
+		{
+			"id": 550988,
+			"title": "Free Guy",
+			"posterImg": "https://image.tmdb.org/t/p/w300/xmbU4JTUm8rsdtn7Y3Fcm30GpeT.jpg",
+			"rating": 78,
+			"date": "Aug 11, 2021"
+		},
+		{
+			"id": 744275,
+			"title": "After We Fell",
+			"posterImg": "https://image.tmdb.org/t/p/w300/suN9WacmM6TIUOuYonHc1iL7uRw.jpg",
+			"rating": 73,
+			"date": "Sep 01, 2021"
+		},
+		{
+			"id": 763164,
+			"title": "Apex",
+			"posterImg": "https://image.tmdb.org/t/p/w300/cobRV6hAj8h7dRU4WZ3dkGaRQv2.jpg",
+			"rating": 57,
+			"date": "Nov 12, 2021"
+		},
+		{
+			"id": 574060,
+			"title": "Gunpowder Milkshake",
+			"posterImg": "https://image.tmdb.org/t/p/w300/5AaKulwpUtkscAokKWtLenGTfVS.jpg",
+			"rating": 65,
+			"date": "Jul 14, 2021"
+		},
+		{
+			"id": 335983,
+			"title": "Venom",
+			"posterImg": "https://image.tmdb.org/t/p/w300/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
+			"rating": 68,
+			"date": "Sep 28, 2018"
+		},
+		{
+			"id": 843241,
+			"title": "The Seven Deadly Sins: Cursed by Light",
+			"posterImg": "https://image.tmdb.org/t/p/w300/k0ThmZQl5nHe4JefC2bXjqtgYp0.jpg",
+			"rating": 82,
+			"date": "Jul 02, 2021"
+		},
+		{
+			"id": 568620,
+			"title": "Snake Eyes: G.I. Joe Origins",
+			"posterImg": "https://image.tmdb.org/t/p/w300/uIXF0sQGXOxQhbaEaKOi2VYlIL0.jpg",
+			"rating": 69,
+			"date": "Jul 22, 2021"
+		},
+		{
+			"id": 639721,
+			"title": "The Addams Family 2",
+			"posterImg": "https://image.tmdb.org/t/p/w300/ld7YB9vBRp1GM1DT3KmFWSmtBPB.jpg",
+			"rating": 74,
+			"date": "Oct 01, 2021"
+		},
+		{
+			"id": 768449,
+			"title": "American Badger",
+			"posterImg": "https://image.tmdb.org/t/p/w300/8mO2ZTTOnLnaEQd1sNZAE2XBoOg.jpg",
+			"rating": 63,
+			"date": "Mar 05, 2021"
+		},
+		{
+			"id": 630004,
+			"title": "The Vault",
+			"posterImg": "https://image.tmdb.org/t/p/w300/kWhXubAiIcHW0xn5GThflqaKZqh.jpg",
+			"rating": 71,
+			"date": "Mar 03, 2021"
+		},
+		{
+			"id": 871964,
+			"title": "Nobody Sleeps in the Woods Tonight 2",
+			"posterImg": "https://image.tmdb.org/t/p/w300/6QvepemlDGIiiYsVs0Y1ieFuG7N.jpg",
+			"rating": 40,
+			"date": "Oct 27, 2021"
+		},
+		{
+			"id": 635302,
+			"title": "Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train",
+			"posterImg": "https://image.tmdb.org/t/p/w300/h8Rb9gBr48ODIwYUttZNYeMWeUU.jpg",
+			"rating": 84,
+			"date": "Oct 16, 2020"
+		},
+		{
+			"id": 610253,
+			"title": "Halloween Kills",
+			"posterImg": "https://image.tmdb.org/t/p/w300/qmJGd5IfURq8iPQ9KF3les47vFS.jpg",
+			"rating": 70,
+			"date": "Oct 14, 2021"
+		}
+	],
+	"tv": [
+		{
+			"id": 93405,
+			"title": "Squid Game",
+			"posterImg": "https://image.tmdb.org/t/p/w300/dDlEmu3EZ0Pgg93K2SVNLCjCSvE.jpg",
+			"rating": 78,
+			"date": "Sep 17, 2021"
+		},
+		{
+			"id": 2051,
+			"title": "The Price Is Right",
+			"posterImg": "https://image.tmdb.org/t/p/w300/6m4uYFAJwkanZXd0n0HUQ0lYHLl.jpg",
+			"rating": 69,
+			"date": "Sep 04, 1972"
+		},
+		{
+			"id": 1991,
+			"title": "Rachael Ray",
+			"posterImg": "https://image.tmdb.org/t/p/w300/dsAJhCLYX1fiNRoiiJqR6Up4aJ.jpg",
+			"rating": 53,
+			"date": "Sep 18, 2006"
+		},
+		{
+			"id": 2778,
+			"title": "Wheel of Fortune",
+			"posterImg": "https://image.tmdb.org/t/p/w300/2fvAIyVfFHQdhJ7OsJWuMlF7836.jpg",
+			"rating": 72,
+			"date": "Sep 19, 1983"
+		},
+		{
+			"id": 113901,
+			"title": "Maradona: Blessed Dream",
+			"posterImg": "https://image.tmdb.org/t/p/w300/mGPdWEEmfzP7VQBQsXrFt1b1ikQ.jpg",
+			"rating": 77,
+			"date": "Oct 29, 2021"
+		},
+		{
+			"id": 135505,
+			"title": "Out Of The Dream",
+			"posterImg": "https://image.tmdb.org/t/p/w300/fZirczSB0Vtu4zpJ5utwuoWBtPH.jpg",
+			"rating": 20,
+			"date": "Oct 28, 2021"
+		},
+		{
+			"id": 133372,
+			"title": "Meet",
+			"posterImg": "https://image.tmdb.org/t/p/w300/9X7FovF5n8NQUHUPJYYfxRlF3yp.jpg",
+			"rating": 32,
+			"date": "Aug 23, 2021"
+		},
+		{
+			"id": 94605,
+			"title": "Arcane",
+			"posterImg": "https://image.tmdb.org/t/p/w300/fqldf2t8ztc9aiwn3k6mlX3tvRT.jpg",
+			"rating": 92,
+			"date": "Nov 06, 2021"
+		},
+		{
+			"id": 881,
+			"title": "Days of Our Lives",
+			"posterImg": "https://image.tmdb.org/t/p/w300/7Zm7epVFEovMEVLpM6FvrjhaNXn.jpg",
+			"rating": 63,
+			"date": "Nov 08, 1965"
+		},
+		{
+			"id": 63452,
+			"title": "Wer weiß denn sowas?",
+			"posterImg": "https://image.tmdb.org/t/p/w300/abKjah96esLWObidBcWmvKJv61E.jpg",
+			"rating": 76,
+			"date": "Jul 06, 2015"
+		},
+		{
+			"id": 92804,
+			"title": "Alix and the Marvelous",
+			"posterImg": "https://image.tmdb.org/t/p/w300/38Wm4JiOtajqDOWdjlfesp5T2jE.jpg",
+			"rating": 0,
+			"date": "Sep 09, 2019"
+		},
+		{
+			"id": 127235,
+			"title": "Invasion",
+			"posterImg": "https://image.tmdb.org/t/p/w300/7rpiHZx10Nm50AtzTUEO9eyaKdq.jpg",
+			"rating": 75,
+			"date": "Oct 21, 2021"
+		},
+		{
+			"id": 111453,
+			"title": "Ghum Hai Kisi Ke Pyaar Mein",
+			"posterImg": "https://image.tmdb.org/t/p/w300/uNjnoT3RChs2r7O9pDyx7TNBvIj.jpg",
+			"rating": 100,
+			"date": "Oct 05, 2020"
+		},
+		{
+			"id": 111551,
+			"title": "Haireta mou ton Platano",
+			"posterImg": "https://image.tmdb.org/t/p/w300/vAu6or1W4G1q7wJxQfDmATtnIg.jpg",
+			"rating": 60,
+			"date": "Oct 12, 2020"
+		},
+		{
+			"id": 63174,
+			"title": "Lucifer",
+			"posterImg": "https://image.tmdb.org/t/p/w300/ekZobS8isE6mA53RAiGDG93hBxL.jpg",
+			"rating": 85,
+			"date": "Jan 25, 2016"
+		},
+		{
+			"id": 2912,
+			"title": "Jeopardy!",
+			"posterImg": "https://image.tmdb.org/t/p/w300/11rWvQOEZBouD7wet0sWHwu7NDs.jpg",
+			"rating": 69,
+			"date": "Sep 10, 1984"
+		},
+		{
+			"id": 135020,
+			"title": "Se xena kheria",
+			"posterImg": "https://image.tmdb.org/t/p/w300/5keY2RGxtPOdlslu6AD0HCM84KX.jpg",
+			"rating": 20,
+			"date": "Sep 27, 2021"
+		},
+		{
+			"id": 135195,
+			"title": "The All-Round Wife",
+			"posterImg": "https://image.tmdb.org/t/p/w300/hUMOzmo8YQmx86ogvbYrwxDi1LT.jpg",
+			"rating": 57,
+			"date": "Oct 04, 2021"
+		},
+		{
+			"id": 131927,
+			"title": "Dexter: New Blood",
+			"posterImg": "https://image.tmdb.org/t/p/w300/9EBKgrFIsCFSV1RZKWhYUdbtGiv.jpg",
+			"rating": 91,
+			"date": "Nov 07, 2021"
+		}
+	]
+}
